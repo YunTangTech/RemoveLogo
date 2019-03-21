@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Remove Logo Support WebPage
 
-You can use the [editor on GitHub](https://github.com/YunTangTech/RemoveLogo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Remove Logo, Remove Watermarks from Videos.
+Remove Logo is a tool to clean up video clips from annoying watermarks, text overlays and channel logos. The video watermark remover will successfully clean up your videos through these ways:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Swipe to select the watermark, remove watermarks Intelligently and restore video perfectly.
+2. Crop Video: Cut the video edge and cut the watermark.
+3. Watermark Video: Add watermarks, pictures, stamps and text to the video. Cover the original watermark.
+4. Trim Video: Trim video to the perfect length. Trim the part containing the watermark.
 
-### Markdown
+In addition, there are other video tools:
+- Set Cover: Change video’s cover. Use beautiful pictures as a video cover.
+- Reverse Video: Play video backwards with a rewind effect. 
+- Rotate Video: Rotate a video sideways or upside down. 
+- Merge Videos: Merge multiple small videos.
+- Video Speed Changer: Support slow and fast changes. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YunTangTech/RemoveLogo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact us:yun_tang_tech@163.com
